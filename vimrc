@@ -14,6 +14,8 @@ colorscheme molokai_orig
 "let g:rehash256 = 1
 map <C-n> :NERDTreeToggle<CR>
 
+set cm=blowfish2
+
 set softtabstop=4
 set shiftwidth=4
 set expandtab
